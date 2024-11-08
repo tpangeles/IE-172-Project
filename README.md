@@ -1,5 +1,8 @@
-# as of Nov-5
-![image](https://github.com/user-attachments/assets/0a3fe84a-9445-42e6-a282-29cd8915d21b)
+# as of Nov-8a
+![image](https://github.com/user-attachments/assets/82c32339-f7fa-4b82-a346-1d1acc1cf614)
+
+## 0. Home
+![image](https://github.com/user-attachments/assets/6bb2f762-f5f9-4796-b699-02b87d8ec53f)
 
 ## 1.a. Service Request Form
 ![image](https://github.com/user-attachments/assets/7ae9edde-9034-4f48-8fda-175264b6c0bd)
@@ -8,7 +11,7 @@
 ![image](https://github.com/user-attachments/assets/5e3b0689-d013-4bd2-a95a-ea4730ce8713)
 
 ## 2.a. Ticket Management
-![image](https://github.com/user-attachments/assets/0dd78f04-ccec-4883-87c6-7f174e83df50)
+![image](https://github.com/user-attachments/assets/407e5e8f-21c9-4704-9772-02728e3297d3)
 
 ## 2.b. Ticket Profile
-N/A
+![image](https://github.com/user-attachments/assets/4473472e-35e3-45b4-b902-4fbc60ce42da)
